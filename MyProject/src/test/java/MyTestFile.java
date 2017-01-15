@@ -6,7 +6,7 @@ import static org.hamcrest.CoreMatchers.is;
 
 import org.junit.Test;
 
-public class myTestFile {
+public class MyTestFile {
 
 	@Test
 	public void test() {
